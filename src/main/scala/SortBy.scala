@@ -1,8 +1,9 @@
 /**
+ * Используем sortBy
  * Передача встроенных функций
  * стр. 117
  */
-object BeautifulFunc {
+object SortBy {
 
   def main(args: Array[String]): Unit = {
 
